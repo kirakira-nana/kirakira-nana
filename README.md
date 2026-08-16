@@ -72,6 +72,8 @@
   </tr>
 </table>
 
+<div align="center">
+
 - **EC-CUBE** … 日本向けオープンソース EC
 - **Shopify / Liquid** … テーマとアプリ連携
 - **WordPress / WooCommerce** … サイトと店舗
@@ -89,6 +91,8 @@
 | [raqote_c](https://github.com/kirakira-nana/raqote_c) | raqote の C ABI |
 | [blend2d](https://github.com/kirakira-nana/blend2d) | Blend2D デモとベンチ |
 | [master-thesis](https://github.com/kirakira-nana/master-thesis) | スパースストリップによる CPU 2D 描画 |
+
+</div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirakira-nana&theme=vue" alt="stats" />
