@@ -74,12 +74,12 @@
 
 <div align="center">
 
-- **EC-CUBE** … 日本向けオープンソース EC
-- **Shopify / Liquid** … テーマとアプリ連携
-- **WordPress / WooCommerce** … サイトと店舗
-- **baserCMS / Movable Type** … 国内 CMS
-- **kintone / Salesforce** … 業務 CRM・顧客管理
-- **LINE Messaging API** … 通知・ボット連携
+**EC-CUBE** … 日本向けオープンソース EC<br>
+**Shopify / Liquid** … テーマとアプリ連携<br>
+**WordPress / WooCommerce** … サイトと店舗<br>
+**baserCMS / Movable Type** … 国内 CMS<br>
+**kintone / Salesforce** … 業務 CRM・顧客管理<br>
+**LINE Messaging API** … 通知・ボット連携
 
 ### いま作っているもの
 
