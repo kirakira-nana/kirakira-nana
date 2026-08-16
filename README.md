@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="./assets/nana.png" width="280" alt="キラキラ" />
+  <img src="./assets/nana.png" width="280" alt="ナナ" />
 </p>
 
 <h1 align="center">
   <a href="https://github.com/kirakira-nana">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=28&duration=4000&pause=2000&color=9AA7D9&center=true&vCenter=true&width=620&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%81%A7%E3%81%99%E3%80%82;%E7%BE%8E%E3%81%97%E3%81%8F%E3%80%81%E8%B3%AA%E3%81%AE%E9%AB%98%E3%81%84%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%80%82;Rust+%2F+PDF+%2F+2D+graphics" alt="typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=28&duration=4000&pause=2000&color=9AA7D9&center=true&vCenter=true&width=620&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%83%8A%E3%83%8A%E3%81%A7%E3%81%99%E3%80%82;%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF+%2F+%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89+%2F+%E6%97%A5%E6%9C%AC%E5%90%91%E3%81%91%E6%A7%8B%E6%88%90;%E7%BE%8E%E3%81%97%E3%81%8F%E3%80%81%E8%B3%AA%E3%81%AE%E9%AB%98%E3%81%84%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%80%82" alt="typing" />
   </a>
 </h1>
 
 <p align="center">
   <samp>
-    Hello there. I'm <a href="https://github.com/kirakira-nana">kirakira-nana</a>.<br>
-    Japan から、美しく質の高いソリューションを。
+    Hello there. I'm <a href="https://github.com/kirakira-nana">ナナ</a>.<br>
+    フルスタック / フロントエンド / 日本向けシステム開発。
   </samp>
 </p>
 
@@ -26,9 +26,65 @@
 
 ---
 
-### いま作っているもの
+### できること
 
-Rust を中心に、PDF と 2D グラフィックスまわりを書いています。
+日本向けの Web・業務システムを、フロントからバックエンドまで一貫して作れます。HTML / CSS / Tailwind での UI、JavaScript / TypeScript、Python / PHP、Shopify・WordPress・EC-CUBE などの CMS / EC、CRM 連携が得意です。
+
+### スキル
+
+**フロントエンド**
+
+<table align="center">
+  <tr>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" /><br>HTML</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" /><br>CSS</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind" /><br>Tailwind</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /><br>React</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" /><br>Next.js</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=vue" width="40" alt="Vue" /><br>Vue</td>
+  </tr>
+</table>
+
+**バックエンド / 言語**
+
+<table align="center">
+  <tr>
+    <td align="center" width="103"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" alt="Python" /><br>Python</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP" /><br>PHP</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=c" width="40" alt="C" /><br>C</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++" /><br>C++</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=rust" width="40" alt="Rust" /><br>Rust</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" /><br>MySQL</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" /><br>PostgreSQL</td>
+  </tr>
+</table>
+
+**日本向け EC / CMS / CRM**
+
+<table align="center">
+  <tr>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=wordpress" width="40" alt="WordPress" /><br>WordPress</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=php" width="40" alt="EC-CUBE" /><br>EC-CUBE</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=html" width="40" alt="Shopify" /><br>Shopify</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=js" width="40" alt="CMS" /><br>CMS</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="CRM" /><br>CRM</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" /><br>Laravel</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" /><br>AWS</td>
+    <td align="center" width="103"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /><br>Docker</td>
+  </tr>
+</table>
+
+- **EC-CUBE** … 日本向けオープンソース EC
+- **Shopify / Liquid** … テーマとアプリ連携
+- **WordPress / WooCommerce** … サイトと店舗
+- **baserCMS / Movable Type** … 国内 CMS
+- **kintone / Salesforce** … 業務 CRM・顧客管理
+- **LINE Messaging API** … 通知・ボット連携
+
+### いま作っているもの
 
 | リポジトリ | 内容 |
 |---|---|
@@ -39,24 +95,7 @@ Rust を中心に、PDF と 2D グラフィックスまわりを書いていま�
 | [blend2d](https://github.com/kirakira-nana/blend2d) | Blend2D デモとベンチ |
 | [master-thesis](https://github.com/kirakira-nana/master-thesis) | スパースストリップによる CPU 2D 描画 |
 
-### 主に使う技術
-
-<table align="center">
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=rust" width="40" alt="Rust" /><br>Rust</td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="40" alt="C" /><br>C</td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" alt="Python" /><br>Python</td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /><br>Docker</td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /><br>Git</td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /><br>GitHub</td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kirakira-nana&show_icons=true&theme=vue&hide_border=true" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirakira-nana&layout=compact&theme=vue&hide_border=true" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirakira-nana&theme=vue&hide_border=true" alt="streak" />
 </p>
