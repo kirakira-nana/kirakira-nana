@@ -4,14 +4,14 @@
 
 <h1 align="center">
   <a href="https://github.com/kirakira-nana">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=28&duration=4000&pause=2000&color=9AA7D9&center=true&vCenter=true&width=620&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%83%8A%E3%83%8A%E3%81%A7%E3%81%99%E3%80%82;%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF+%2F+%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89+%2F+%E6%97%A5%E6%9C%AC%E5%90%91%E3%81%91%E6%A7%8B%E6%88%90;%E7%BE%8E%E3%81%97%E3%81%8F%E3%80%81%E8%B3%AA%E3%81%AE%E9%AB%98%E3%81%84%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%80%82" alt="typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=28&duration=4000&pause=2000&color=9AA7D9&center=true&vCenter=true&width=620&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%83%8A%E3%83%8A%E3%81%A7%E3%81%99%E3%80%82;%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF+%2F+%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89+%2F+%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA;%E7%BE%8E%E3%81%97%E3%81%8F%E3%80%81%E8%B3%AA%E3%81%AE%E9%AB%98%E3%81%84%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%80%82" alt="typing" />
   </a>
 </h1>
 
 <p align="center">
   <samp>
     Hello there. I'm <a href="https://github.com/kirakira-nana">ナナ</a>.<br>
-    フルスタック / フロントエンド / 日本向けシステム開発。
+    フルスタック / フロントエンド / システム開発。
   </samp>
 </p>
 
