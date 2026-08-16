@@ -96,6 +96,6 @@
 | [master-thesis](https://github.com/kirakira-nana/master-thesis) | スパースストリップによる CPU 2D 描画 |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirakira-nana&show_icons=true&theme=vue&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirakira-nana&layout=compact&theme=vue&hide_border=true" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirakira-nana&theme=vue" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirakira-nana&theme=vue" alt="langs" />
 </p>
