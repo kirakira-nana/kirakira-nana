@@ -65,7 +65,7 @@
     <td align="center" width="103"><img src="https://skillicons.dev/icons?i=php" width="40" alt="EC-CUBE" /><br>EC-CUBE</td>
     <td align="center" width="103"><img src="https://cdn.simpleicons.org/shopify/95BF47" width="40" alt="Shopify" /><br>Shopify</td>
     <td align="center" width="103"><img src="https://cdn.simpleicons.org/strapi/4945FF" width="40" alt="CMS" /><br>CMS</td>
-    <td align="center" width="103"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="40" alt="CRM" /><br>CRM</td>
+    <td align="center" width="103"><img src="./assets/crm.svg" width="40" alt="CRM" /><br>CRM</td>
     <td align="center" width="103"><img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" /><br>Laravel</td>
     <td align="center" width="103"><img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" /><br>AWS</td>
     <td align="center" width="103"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /><br>Docker</td>

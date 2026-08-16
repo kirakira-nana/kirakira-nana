@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="CRM">
+  <rect width="128" height="128" rx="24" fill="#3B82F6"/>
+  <!-- left person -->
+  <circle cx="42" cy="42" r="11" fill="#fff"/>
+  <path fill="#fff" d="M20 78c0-12.15 9.85-22 22-22s22 9.85 22 22v6H20z"/>
+  <!-- right person -->
+  <circle cx="86" cy="42" r="11" fill="#DBEAFE"/>
+  <path fill="#DBEAFE" d="M64 78c0-12.15 9.85-22 22-22s22 9.85 22 22v6H64z"/>
+  <!-- CRM badge -->
+  <rect x="28" y="90" width="72" height="22" rx="11" fill="#fff"/>
+  <text x="64" y="106" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1D4ED8">CRM</text>
+</svg>
