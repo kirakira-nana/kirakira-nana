@@ -16,11 +16,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kirakira-nana&color=blueviolet&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/kirakira-nana?style=flat-square&color=9aa7d9" alt="followers" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirakira-nana&theme=vue" alt="profile details" />
 </p>
 
